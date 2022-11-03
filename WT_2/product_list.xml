@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Kettle> <ProductName>Tefal KI700830</ProductName> <ID>11</ID> <TeapotType>Electric</TeapotType> <WaterVolume>1.7 l</WaterVolume> <HousingMaterial>Glass</HousingMaterial> <Price>109.00</Price> </Kettle>
+<Kettle> <ProductName>HOLT HT-KT-009</ProductName> <ID>12</ID> <TeapotType>Electric</TeapotType> <WaterVolume>1.7 l</WaterVolume> <HousingMaterial>Glass</HousingMaterial> <Price>52.15</Price> </Kettle>
+<Kettle> <ProductName>Tefal K2481574</ProductName> <ID>13</ID> <TeapotType>Whistling</TeapotType> <WaterVolume>2.7 l</WaterVolume> <HousingMaterial>Stainless steel</HousingMaterial> <Price>129.99</Price> </Kettle>
+<Kettle> <ProductName>Bosch TWK7S05</ProductName> <ID>14</ID> <TeapotType>Electric</TeapotType> <WaterVolume>1.7 l</WaterVolume> <HousingMaterial>Stainless steel</HousingMaterial> <Price>489.00</Price> </Kettle>
+<Microwave> <ProductName>Toshiba MWP-MM20PBK5</ProductName> <ID>21</ID> <EmbeddingType>Standing separately</EmbeddingType> <MicrowaveVolume>20 l</MicrowaveVolume> <InternalWallCovering>Enamel</InternalWallCovering> <EmitterPower>700 W</EmitterPower> <Price>219.00</Price> </Microwave>
+<Microwave> <ProductName>Electrolux KMFE264TEW</ProductName> <ID>22</ID> <EmbeddingType>Embedded</EmbeddingType> <MicrowaveVolume>26 l</MicrowaveVolume> <InternalWallCovering>Enamel</InternalWallCovering> <EmitterPower>900 W</EmitterPower> <Price>2861.00</Price> </Microwave>
+<Fridge> <ProductName>Samsung RB33A3240WW/WT</ProductName> <ID>31</ID> <NoFrost>Full</NoFrost> <FridgeVolume>328 l</FridgeVolume> <Height>185 cm</Height> <Color>White</Color> <Price>2099.00</Price> </Fridge>
+<Iron> <ProductName>Philips GC1740/20</ProductName> <ID>41</ID> <MaxPower>2000 W</MaxPower> <WorkingSurface>Non-stick coating</WorkingSurface> <WaterTankCapacity>220 ml</WaterTankCapacity> <Price>83.00</Price> </Iron>
+<Iron> <ProductName>Holt HT-IR-010</ProductName> <ID>42</ID> <MaxPower>2200 W</MaxPower> <WorkingSurface>Ceramics</WorkingSurface> <WaterTankCapacity>250 ml</WaterTankCapacity> <Price>53.00</Price> </Iron>
+<Iron><ProductName>Philips GC7846/80</ProductName> <ID>43</ID> <MaxPower>2400 W</MaxPower> <WorkingSurface>Steam Glide</WorkingSurface> <WaterTankCapacity>1500 ml</WaterTankCapacity> <Price>677.00</Price> </Iron>
+
+
